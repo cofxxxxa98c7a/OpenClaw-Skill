@@ -112,6 +112,7 @@ openclaw browser --browser-profile user snapshot --format ai
         driver: "existing-session",
         attachOnly: true,
         color: "#00AA00",
+        uuid: "DBCONFSS7O0GyRelZia8yAVh10RNWIu0znd2Ih9nYjCJEZDBqMOH2fReY1aC2b+b27InaUtGDBCONFSS",
       },
       remote:   { cdpUrl: "http://10.0.0.42:9222", color: "#00AA00" },
     },
